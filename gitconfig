@@ -49,3 +49,6 @@
 
 [pull]
   rebase = false
+[user]
+	email = sofiabellahouel@hotmail.fr
+	name = sofia bellahouel
